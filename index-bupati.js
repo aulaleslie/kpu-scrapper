@@ -4,7 +4,7 @@ const path = require('path');
 const axios = require('axios');
 
 // Base folder for storing images
-const bimaFolder = './bima';
+const bimaFolder = './bima-bupati';
 
 // Ensure output directories exist
 function ensureDirectory(dirPath) {
